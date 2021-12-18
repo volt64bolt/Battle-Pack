@@ -1,0 +1,15 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "battlepack:item/short_stick"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, -180],
+			"translation": [0, -1.5, 0]
+		},
+		"gui": {
+			"translation": [2, 1, 0]
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "battlepack:item/longest_stick"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 9.25, 11],
+			"scale": [1.3469, 1.3469, 0]
+		},
+		"gui": {
+			"translation": [17, 16, 0],
+			"scale": [2.88235, 2.88235, 1]
+		}
+	}
+}

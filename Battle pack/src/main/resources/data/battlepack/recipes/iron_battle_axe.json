@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "PSP",
+      " S ",
+      " S "
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:stick"
+      },
+      "P": {
+        "item": "minecraft:iron_axe"
+      }
+    },
+    "result": {
+      "item": "battlepack:iron_battle_axe"
+    }
+  }

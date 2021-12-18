@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "PSP",
+      " S ",
+      " S "
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:stick"
+      },
+      "P": {
+        "item": "minecraft:netherite_axe"
+      }
+    },
+    "result": {
+      "item": "battlepack:netherite_battle_axe"
+    }
+  }
